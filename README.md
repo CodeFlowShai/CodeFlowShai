@@ -1,5 +1,5 @@
-- 👋 yo, i’m @CodeFlowShai
-- 👀 vibin w/  | programming, 3d modeling, youtube, minecraft redstone
-- 🌱 learnin   | kernel dev, asm, cheese
-- 📫 hit me up | codeflow@codeflowshai.com
-- 😄 pronouns  | cat/cheese/evil robot overlord/he/him/she/her
+- I’m @CodeFlowShai
+- I like programming, 3d modeling, youtube, and minecraft redstone
+- I'm kernel dev, asm, cheese
+- Talk to me at codeflow@codeflowshai.com
+- I go by cat/cheese/evil robot overlord/he/him/
